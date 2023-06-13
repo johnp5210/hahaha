@@ -79,7 +79,7 @@ window.onload = function() {
                 if (curveMtrx[x][y][0] === 0) {
                     endString += tString
                 } else {
-                    endString += "&ensp;"
+                    endString += "&emsp;"
 
                 }
                textInt += 1
